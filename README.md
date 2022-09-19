@@ -1,59 +1,42 @@
-### Hi there 👋
-<!-- Header -->
-#### I am Sajjad Hossain. I am a Software QA Engineer. I am now focusing on test automation for both web and mobile applications.
+## Hi 👋, I'm a Software QA Engineer working in Dhaka, Bangladesh
 
+#### Now
 
+- ✨ Contributing to [FastPay](https://www.fast-pay.iq/);
+- :fire: Interested in Automation testing for both web and mobile apps;
+- :calendar: Looking for contributing to python - selenium and appium based open source projects 
 
-<!-- Current Projects -->
-<!-- *The projects I am currently working on:* -->
+#### Bio
 
+- 🏢 I'm currently working at **Newroz Technologies Limited**
+- ⚙️ I use daily: `.py`, `.jmx`, `.myd`
+- 🌍 I'm mostly active within the **SQA Community**
+- 🌱 Learning all about **Automation**
+- 💬 Ping me about **Selenium**, **Python**, **Postman**, **Jmeter**, **MySQL**, **Jira**
+- 📝 Checkout my [Resume](files/resume.pdf)
 
+#### My Current Stack
 
-<!-- Pocket wallet: fastpay
-<div align='left'>
-  <a href="https://www.fast-pay.iq/">
-    <img src=""https://media-exp1.licdn.com/dms/image/C560BAQHGTE2n1x9cZw/company-logo_200_200/0/1607328552375?e=2147483647&v=beta&t=zV9kjQ29PbNsuDSsXBIiefKbW0ceeLNMNoVx3D__H1c/>
-  </a> -->
+<img height="48" src="img/selenium.png" alt="Selenium"> <img height="48" src="img/appium.png" alt="Appium"> <img height="48" src="img/postman.png" alt="Postman"> <img height="48" src="img/jmeter.png" alt="JMeter"> <img height="48" src="img/python.png" alt="python"> <img height="48" src="img/mysql.png" alt="MySQL"> <img height="48" src="img/git.png" alt="git"> <img height="48" src="img/terminal.png" alt="terminal">
 
-<br />
+#### Development Stuffs:
 
+<b>⚡ Github Stats</b>
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashrafazimsajjad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafazimsajjad&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
+#### Connect With Me
 
-*Languages and Tools:*  
-<code><img height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpnOMsUdVl82G3Z4xztmxSdI8pzo66DsI0YA&usqp=CAU"/>
-<code><img height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhobh0LiIsWXWEfhiJuuVd4vxaqE8Kpg9GQQ&usqp=CAU"></code>
-<code><img height="45" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></code>
-<code><img height="45" src="https://jmeter.apache.org/images/jmeter_square.svg"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
- 
-  
-<!-- Github Stats -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=ashrafazimsajjad&show_icons=true&hide_border=true)
-
-
-<!-- Top Language -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafazimsajjad)](https://github.com/ashrafazimsajjad/github-readme-stats)
-
-
-
-
-<!-- Contact Me -->
-<div align='left'>
-  <a href="https://www.linkedin.com/in/ashrafazimsajjad/">
-    <img src="https://img.icons8.com/color/24/000000/linkedin.png"/>
-  </a>
-</div>
-
-
-
-
-<!--  Visitor Count -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ashrafazimsajjad.ashrafazimsajjad)
-[![HitCount](https://hits.dwyl.com/ashrafazimsajjad/ashrafazimsajjad.svg)](http://hits.dwyl.com/ashrafazimsajjad/ashrafazimsajjad)
-
-
-
-<!-- **ashrafazimsajjad/ashrafazimsajjad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<p left="center">
+<a href="https://www.linkedin.com/in/ashrafazimsajjad/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+<a href="https://www.facebook.com/sajjad.nsu">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
+</a>
+<a href="mailto:ashrafazimsajjad@gmail.com">
+  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
+</p>
