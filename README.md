@@ -13,7 +13,7 @@
 - 🌍 I'm mostly active within the **SQA Community**
 - 🌱 Learning all about **Automation**
 - 💬 Ping me about **Selenium**, **Python**, **Postman**, **Jmeter**, **MySQL**, **Jira**
-- 📝 Checkout my [Resume](files/resume.pdf)
+- 📝 Checkout my [Resume](files/Sajjad-Hossain-SQA-Resume.pdf)
 
 #### My Current Stack
 
