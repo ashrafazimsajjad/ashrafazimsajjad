@@ -15,8 +15,6 @@
     <img src=""https://media-exp1.licdn.com/dms/image/C560BAQHGTE2n1x9cZw/company-logo_200_200/0/1607328552375?e=2147483647&v=beta&t=zV9kjQ29PbNsuDSsXBIiefKbW0ceeLNMNoVx3D__H1c/>
   </a> -->
 
-
-
 <br />
 
 
@@ -33,10 +31,7 @@
 
 
 <!-- Github Stats -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=ashrafazimsajjad&show_icons=true&hide_border=true)
-
-
-
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ashrafazimsajjad&show_icons=true&hide_border=true)]
 
 
 <!-- Top Language -->
@@ -50,7 +45,6 @@
   <a href="https://www.linkedin.com/in/ashrafazimsajjad/">
     <img src="https://img.icons8.com/color/24/000000/linkedin.png"/>
   </a>
-  
 </div>
 
 
