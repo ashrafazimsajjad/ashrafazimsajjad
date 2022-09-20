@@ -17,7 +17,7 @@
 
 #### My Current Stack
 
-<img height="48" src="img/selenium.png" alt="Selenium"> <img height="48" src="img/appium.png" alt="Appium"> <img height="48" src="img/postman.png" alt="Postman"> <img height="48" src="img/jmeter.png" alt="JMeter"> <img height="48" src="img/python.png" alt="python"> <img height="48" src="img/mysql.png" alt="MySQL"> <img height="48" src="img/git.png" alt="git"> <img height="48" src="img/terminal.png" alt="terminal">
+<img height="48" src="img/selenium.png" alt="Selenium"> <img height="48" src="img/appium.png" alt="Appium"> <img height="48" src="img/postman.png" alt="Postman"> <img height="48" src="img/jmeter.png" alt="JMeter"> <img height="48" src="img/python.png" alt="python"> <img height="48" src="img/mysql.png" alt="MySQL"> <img height="48" src="img/git.png" alt="git"> <img height="48" src="img/terminal.png" alt="bash">
 
 #### Development Stuffs:
 
