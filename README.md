@@ -12,8 +12,8 @@
 - ⚙️ I use daily: `.py`, `.jmx`, `.myd`
 - 🌍 I'm mostly active within the **SQA Community**
 - 🌱 Learning all about **Automation**
-- 💬 Ping me about **Selenium**, **Python**, **Postman**, **Jmeter**, **MySQL**, **Jira**
-- 📝 Checkout my [Resume](files/Sajjad-Hossain-SQA-Resume.pdf)
+- 💬 Ping me about **Java**, **Python**, **Selenium**, **Appium**, **Postman**, **Jmeter**, **MySQL**, **Jira**
+- 📝 Checkout my [Resume](files/Sajjad_Hossain_Resume.pdf)
 
 #### My Current Stack
 
