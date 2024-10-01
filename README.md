@@ -4,7 +4,7 @@
 
 - ✨ Contributing to [FastPay](https://www.fast-pay.iq/);
 - :fire: Interested in Automation testing for both web and mobile apps;
-- :calendar: Looking for contributing to python - selenium and appium based open source projects 
+- :calendar: Looking for contributing to Java - Selenium and Appium based open source projects 
 
 #### Bio
 
