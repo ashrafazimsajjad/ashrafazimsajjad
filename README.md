@@ -2,7 +2,7 @@
 
 #### Now
 
-- ✨ Contributing to [FastPay](https://www.fast-pay.iq/);
+- ✨ Contributing to [FastPay](https://www.fast-pay.iq/) as Core SQA Engineer;
 - :fire: Interested in Automation testing for both web and mobile apps;
 - :calendar: Looking for contributing to Java - Selenium and Appium based open source projects 
 
@@ -12,7 +12,7 @@
 - ⚙️ I use daily: `.py`, `.jmx`, `.myd`
 - 🌍 I'm mostly active within the **SQA Community**
 - 🌱 Learning all about **Automation**
-- 💬 Ping me about **Java**, **Python**, **Selenium**, **Appium**, **Postman**, **Jmeter**, **MySQL**, **Jira**
+- 💬 Ping me about **Java**, **Python**, **Selenium**, **Appium**, **Postman**, **Jmeter**, **MySQL**, **Jira**, **Playwright**
 - 📝 Checkout my [Resume](files/Md_Sajjad_Hossain_CV_5_Years.pdf)
 
 #### My Current Stack
